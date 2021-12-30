@@ -10,6 +10,7 @@ function cod_fcn() {
   document.getElementById("cod_cancel").style.display = "flex";
   document.getElementById("cod_btn").style.backgroundColor = "#fa8a53";
   document.getElementById("cod_btn").style.color = "#ffff";
+
   //   let codbtnactive = document.getElementById("cod_btn");
   //   codbtnactive.classList.toggle("active");
 }
